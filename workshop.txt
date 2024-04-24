@@ -1,0 +1,8 @@
+version=1
+id=3231254109
+title=Trash and Corpses [Reupload]
+description=This is a reupload of the original mod Trash and Corpses.
+description=
+description=If the original dev wants me to delete this, I will.
+tags=Build 41;Building;Map;Misc;Realistic
+visibility=public
